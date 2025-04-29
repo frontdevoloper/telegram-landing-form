@@ -39,7 +39,9 @@ POST-запрос на `/send` с JSON:
 Ответ: 
 ```json
 { "success": true }
-``` или 
+``` 
+или 
+
 ```json
 { "success": false, "error": "..." }
 ```
